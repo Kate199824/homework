@@ -1,4 +1,4 @@
-package com.example.homework;
+package com.database.hw;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class HomeworkApplicationTests {
+public class HwApplicationTests {
 
     @Test
     public void contextLoads() {
